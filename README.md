@@ -60,7 +60,7 @@
 
 ### 🏫 College Attendance, Fine & Complaint System `Live Deploy`
 A complete administrative management platform optimizing resource distribution and compliance tracking. Driven by an explicit relational backend model that prioritizes role security and real-world multi-tenant data workflows. 
-* *Stack: ASP.NET Core, SQL Server, Bootstrap*
+* *Stack: Laravel, MySQL, Flutter*
 
 ### 📚 Campus Learning Infrastructure `Production`
 A streamlined content hub engineered for immediate student resource availability, low-latency access patterns, and simplified learning pipelines.
@@ -74,9 +74,6 @@ A series of shipped, gameplay-first titles exploring standalone multiplayer code
 ## 📊 Analytics Dashboard
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akrashejaz&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrashejaz&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=5"/>
 
 <br/>
 
