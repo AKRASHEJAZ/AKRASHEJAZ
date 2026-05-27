@@ -20,16 +20,15 @@
 
 </div>
 
----
 
 ## About
 
- I build backend systems, deployment workflows, and game mechanics.
- The goal is always the same: software that solves real problems.
+ <p>I build backend systems, deployment workflows, and game mechanics.</p>
+ <p>The goal is always the same: software that solves real problems.</p>
 
- • Backend architecture, database design, and production deployments
- • Indie games exploring multiplayer systems and stylised mechanics
- • Open to help and colaborate on projects that are helpful for community.
+ <p>• Backend architecture, database design, and production deployments.</p>
+ <p>• Indie games exploring multiplayer systems and stylised mechanics.</p>
+ <p>• Open to help and colaborate on projects that are helpful for community.</p>
 
 ---
 
