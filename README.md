@@ -16,11 +16,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akrashejaz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e"/>
+<img width = 100% src="https://github-readme-streak-stats.herokuapp.com/?user=akrashejaz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akrashejaz&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&size_weight=0.5&count_weight=0.5"/>
+<img width = 100% src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akrashejaz&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&size_weight=0.5&count_weight=0.5"/>
 
 </div>
 
