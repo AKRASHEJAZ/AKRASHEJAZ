@@ -125,14 +125,6 @@ A collection of shipped indie games exploring multiplayer systems, gameplay mech
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<img width = 100% src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akrashejaz&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&size_weight=0.5&count_weight=0.5"/>
-
-</div>
-
 ## Connect
 
 <div align="center">
